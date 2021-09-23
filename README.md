@@ -1,6 +1,6 @@
 # Stanford CS231n Convolutional Neural Networks for Visual Recognition - Assignment Solution
 
-This repository contains my solution for the course CS231n Convolutional Neural Networks for Visual Recognition (Spring 2017) offered by Stanford University. The deep learning framework used for the assignment is PyTorch.
+This repository contains my solution for the course CS231n Convolutional Neural Networks for Visual Recognition (Spring 2017) offered by Stanford University. The deep learning framework used for the assignment is PyTorch. I started the course on Jan 3rd 2021 and finished it on Feb 23rd 2021.
 
 **Assignment 1**
 
