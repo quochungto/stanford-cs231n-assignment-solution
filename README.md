@@ -1,6 +1,9 @@
 # Stanford CS231n Convolutional Neural Networks for Visual Recognition - Assignment Solution
 
-This repository contains my solution for the course CS231n Convolutional Neural Networks for Visual Recognition (Spring 2017) offered by Stanford University. The deep learning framework used for the assignment is PyTorch. I started the course on Jan 3rd 2021 and finished it on Feb 23rd 2021.
+This repository contains my solution for the course CS231n Convolutional Neural Networks for Visual Recognition (Spring 2017) offered by Stanford University. 
+* All notebooks in the assignment are implemented to run with Google Colab.
+* The deep learning framework used for the assignment is PyTorch. 
+* I started the course on Jan 3rd 2021 and finished it on Feb 23rd 2021.
 
 **Assignment 1**
 
@@ -16,7 +19,7 @@ This repository contains my solution for the course CS231n Convolutional Neural 
 
 **Assignment 2**
 
-[Q1.Multi-Layer Fully Connected Neural Networks](./assignment2/FullyConnectedNets.ipynb)
+[Q1. Multi-Layer Fully Connected Neural Networks](./assignment2/FullyConnectedNets.ipynb)
 
 [Q2. Batch Normalization](./assignment2/BatchNormalization.ipynb)
 
@@ -24,7 +27,7 @@ This repository contains my solution for the course CS231n Convolutional Neural 
 
 [Q4. Convolutional Neural Networks](./assignment2/ConvolutionalNetworks.ipynb)
 
-[Q5. PyTorch on CIFAR-10](./assigment2/PyTorch.ipynb)
+[Q5. PyTorch on CIFAR-10](./assignment2/PyTorch.ipynb)
 
 **Assignment 3**
 
